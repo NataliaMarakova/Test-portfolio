@@ -4,7 +4,7 @@
 
 Welcome to my page!
 
-![my cat](https://drive.google.com/file/d/1OcwjSUGSoB9OvIbDpRrvhHVorLEgjZnU/view?usp=share_link)
+![my cat](https://lh3.googleusercontent.com/drive-viewer/AAOQEORJfTBLsyC-3wKVuVECt_KY9RcOw3NVrSn3HREEboefyQBDxAcUPZT3HI_U0o6MAsZAjRD3WJUHqOk0G84emV3zLeOE=w1920-h902)
 
 ### Here are 3 facts about me:
 
